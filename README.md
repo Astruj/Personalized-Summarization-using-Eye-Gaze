@@ -6,3 +6,4 @@ Python
 C
 
 # Flow Chart
+![Workflow diagram to create personalized summaries](images/WikiGaze_Flow.png)
