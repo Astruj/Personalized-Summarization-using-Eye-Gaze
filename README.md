@@ -21,3 +21,8 @@ Participants are required to follow the following steps during dataset collectio
 **If you are satisfied with the text extraction, click on the Save button.
 **If you don’t like the text extraction, click on the discard button.
 *In the end, please rate the text extraction as per your satisfaction level.
+<ol style="list-style-type:lower-roman">
+  <li>About the author</li>
+  <li>Foreword to the first edition</li>
+  <li>Foreword to the second edition</li>
+</ol>
