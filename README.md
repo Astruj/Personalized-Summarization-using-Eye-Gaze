@@ -14,15 +14,15 @@ python new_main.py
 
 # Application Usage Procedure
 Participants are required to follow the following steps during dataset collection:
-*Start the application and click on the summarize button.
-*Perform calibration procedure by following the dot appearing on-screen.
-*Start reading any Wikipedia article of your choice.
-*Upon finishing the reading session, we will display the text that you focused while reading. Do the following as per your wish:
-**If you are satisfied with the text extraction, click on the Save button.
-**If you don’t like the text extraction, click on the discard button.
-*In the end, please rate the text extraction as per your satisfaction level.
+
 <ol style="list-style-type:lower-roman">
-  <li>About the author</li>
-  <li>Foreword to the first edition</li>
-  <li>Foreword to the second edition</li>
+  <li>Start the application and click on the summarize button.</li>
+  <li>Perform calibration procedure by following the dot appearing on-screen.</li>
+  <li>Start reading any Wikipedia article of your choice.</li>
+  <li>Upon finishing the reading session, we will display the text that you focused while reading. Do the following as per your wish:</li>
+    <ol style="list-style-type:lower-roman">
+    <li>If you are satisfied with the text extraction, click on the Save button.</li>
+    <li>If you don’t like the text extraction, click on the discard button.</li>
+    </ol>
+  <li>In the end, please rate the text extraction as per your satisfaction level.</li>  
 </ol>
