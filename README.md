@@ -10,6 +10,7 @@ C
 
 # Application Run
 cd Integration
+
 python new_main.py
 
 # Application Usage Procedure
