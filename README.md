@@ -9,7 +9,7 @@ C
 ![Workflow diagram to create personalized summaries](images/WikiGaze_Flow.png)
 
 
-## Installation for Mac OS X or Ubuntu systems
+## Installation for Mac OS X / Ubuntu / Windows systems
 
 ### Scripted Installation
 * Install Opengazer: [https://github.com/qiffp/OpenGazer] for Mac OS X or Ubuntu systems
